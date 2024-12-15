@@ -46,9 +46,28 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+Support Removal Process 
 
-### Name:
-### Register Number:
+![empd 1](https://github.com/user-attachments/assets/1a37779c-818c-4afc-aec1-34d6804ac210)
+
+![empd 2](https://github.com/user-attachments/assets/5d218d71-e3c9-4011-8e71-1e4f5a36f20a)
+
+UV Curing  of 3D printed part
+
+![empd 3](https://github.com/user-attachments/assets/e990ff03-31da-46e5-9c30-aac7f88ce147)
+
+![empd 4](https://github.com/user-attachments/assets/cffa82d6-617e-45bd-97a4-5e5cf4dd944a)
+
+Heat Treatment of 3D printed part
+
+![empd 5](https://github.com/user-attachments/assets/daa8f96f-e83f-492a-9299-fba85cc9faf9)
+
+![empd 6](https://github.com/user-attachments/assets/72f32f93-ae9c-4591-b6a1-a5f829cce976)
+
+
+
+### Name: E HEMACHANDRAN
+### Register Number:  24003784
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
